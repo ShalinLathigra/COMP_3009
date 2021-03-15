@@ -1,0 +1,8 @@
+I did not learn much about transformations from this particular tutorial as much of the material was covered in COMP 3501 and 
+COMP 2501 in previous years, however I did find it interesting to look through the OpenGLApp implementation provided in the code.
+Typically when working on graphics related projects I am working in Unity or a similar Game Engine which has some sort of underlying 
+structure that is somewhat hidden from the user. The only other time I have really been exposed to this sort of structure was back in 
+3501 with the implementation provided by Professor Oliver van Kaick.
+
+I ran in to no real technical difficulties beyond grappling with the decision of spending more time to make things easier if I wanted to get fancy,
+or just doing it and moving on. I elected to move on as I do not expect my changes to be carried over to future tutorials.

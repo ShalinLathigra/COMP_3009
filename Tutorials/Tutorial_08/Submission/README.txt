@@ -1,0 +1,2 @@
+I have actually been messing with using textures a lot for some personal projects recently, mainly with layering Perlin Noise textures to create interesting
+effects. This tutorial did not cover new material for me, but I always enjoy playing with textures, and I did learn a bit about how OpenGL indexes textures

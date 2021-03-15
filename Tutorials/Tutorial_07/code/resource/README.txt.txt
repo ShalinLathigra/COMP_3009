@@ -1,0 +1,2 @@
+This week covered a straightforward 3 term lighting model, the material was not particularly new as it had already been covered in depth in 
+COMP 3501. I did run into a brief issue during my first pass, but that was just a syntax error. 

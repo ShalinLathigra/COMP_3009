@@ -1,0 +1,22 @@
+COMP3009A1 Tutorial_01
+
+1. Prior to this class all I knew about CMAKE was how to add to the list of sources and make a variable. Which I learned by just using CMAKE files provided in courses without any added context.
+	This tutorial gave a clearer understanding of how to actually set up and use CMAKE with VS 2017.
+	
+	Also learned a lot more about how to properly set up a C++/OpenGL project. My main experience prior to this was 2501 and 3501 where the focus was more on using OpenGL by building off of
+	demos provided by the prof. Reading the tutorial document and some additional research to address problems helped me to understand what exactly each step accomplishes.
+	
+2. 
+	Renderer: Intel(R) UHD Graphics 630
+	OpenGL Version: 4.6.0 - Build 27.20.100.8681
+	OpenGL Shading Language Version: 4.60 - Build 27.20.100.8681
+	
+3. I encountered two issues while completing the GLUT section of the tutorial.
+	First, I tried to use VS 2019 rather than 2017 as I am using it for other courses + projects already, however for some UNKNOWN -reason, it would not work.
+		The GLUT window would pop up without throwing any errors, however the screen would remain black. I did not encounter this using VS 2019 on the other two sections.
+		
+	After that, I tried using 2017 which initially saw the same issue, a black screen, however after searching online for a while and trying a few other methods, I found the only way to
+		get the background colour to change was by drawing a small white square outside of the range of the screen. Frustratingly, this fix did not work for VS 2019. 
+
+
+[The images show the output with the white square hidden, visible in the top left of the screen, one prior to adding the white square, and one illustrating the GLFW output]
